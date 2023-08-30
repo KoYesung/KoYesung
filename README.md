@@ -65,5 +65,5 @@
 
 #
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dayeon-Merry&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayeon-Merry&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KoYesung&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoYesung&layout=compact&theme=tokyonight)
