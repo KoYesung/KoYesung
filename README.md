@@ -22,9 +22,11 @@
 ### AI
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=white"/>&nbsp;&nbsp;
+  
 </p>
 
 
@@ -33,7 +35,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
-
+  <img src="https://img.shields.io/badge/React-wheat?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
 </p>
 
 ### Back-End
@@ -46,7 +48,6 @@
 ### DataBase
 <p>
     <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 </p>
 
